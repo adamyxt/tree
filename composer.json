@@ -1,0 +1,21 @@
+{
+    "name": "adamyxt/yii2-tree",
+    "description": "mysql stores tree-structured data",
+    "type": "yii2-extension",
+    "keywords": ["yii2","extension"],
+    "license": "BSD-4-Clause",
+    "authors": [
+        {
+            "name": "adamyu",
+            "email": "adamyxt@outlook.com"
+        }
+    ],
+    "require": {
+        "yiisoft/yii2": "~2.0.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "adamyxt\\tree\\": ""
+        }
+    }
+}
